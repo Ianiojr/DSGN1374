@@ -13,7 +13,10 @@ body {
   max-width: 100%;
   margin: 0;
   padding: 0.5em;
-  background: black;
   color: white;
   font-family: Courier, arial, roboto, sans-serif;
+}
+
+p {
+  text-shadow: 1.4px 1.4px #000000;
 }
