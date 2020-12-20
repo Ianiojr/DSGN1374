@@ -8,7 +8,7 @@ body {
   max-width: 100%;
   margin: 0;
   padding: 0.5em;
-  background: lightgrey;
-  color: black;
-  font-family: helvetica, arial, roboto, sans-serif;
+  background: black;
+  color: white;
+  font-family: Courier, arial, roboto, sans-serif;
 }
