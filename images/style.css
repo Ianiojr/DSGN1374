@@ -1,0 +1,56 @@
+/* Gallery */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('img/bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100%;
+	color: white;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.4;
+	font-size: 16px;
+	margin: 0.25em;
+}
+
+    
+img {
+	max-width: 100%;
+}
+
+.grid {
+	diplay: flex;
+	flex-wrap: wrap;
+
+}
+
+.item {
+	width: 33.33%;
+	padding: 0.25em;
+}
+
+h1 {
+	font-family: Ink Free, Courier, sans-serif;
+	text-align: center;
+	background-color: black;
+}
+
+h2 {
+	font-family: Ink Free, Courier, sans-serif;
+}
+
+h3 {
+	font-family: Ink Free, Courier, sans-serif;
+	text-align: center;
+	background-color: black;
+}
+
+p {
+	font-family: Courier, sans-serif;
+}
+
